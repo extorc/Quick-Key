@@ -5,9 +5,14 @@ This is a Blender Addon created for Quick and Tidy Keying process.<br><br>
 # Download
 
 **Git** : <br>
-If you have `Git` installed on you computer then you can clone the repository with `git clone https://github.com/extorc/Quick-Key`.<br><br>
+If you have `Git` installed on you computer then you can clone the repository with <br>`git clone https://github.com/extorc/Quick-Key`<br><br>
 **Anything else** : <br>
 Hit the download button on the github page.
 
 # Setup
-Go to ``` Edit > Preferences > Addons > Install > Navigate to the downloaded folder/ __init__.py ```
+Go to ``` Edit > Preferences > Addons > Install > Navigate to the downloaded folder/ Downloaded Zip File```
+
+# Usage
+
+After Installation, Click `CTRL + D` to enable Main Menu.<br>
+Choose individual key frame channels to add a keyframe on that channel.
